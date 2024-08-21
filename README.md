@@ -3,7 +3,7 @@
   I’m currently developing a sophisticated SaaS platform using React.js, Next.js, and TypeScript. This project involves integrating AI-driven features for personalized user experiences and implementing advanced state management with Redux Toolkit and RTK Query to ensure seamless performance across complex microservices.</p><br>
 
   <p><strong>👯 I’m looking to collaborate on</strong><br>
-  Exciting frontend projects that utilize the latest technologies, such as React, Next.js, and modern CSS frameworks, to create exceptional user experiences.</p><br>
+  Exciting fullstack projects that utilize the latest technologies. I’m particularly interested in projects involving MERN (MongoDB, Express.js, React.js, Node.js) and PERN (PostgreSQL, Express.js, React.js, Node.js) stacks, where I can leverage my skills in both frontend and backend development to build comprehensive, high-performance solutions.</p><br>
 
   <p><strong>🤝 I’m seeking assistance with</strong><br>
   Exploring advanced JavaScript algorithms and mastering best practices for optimizing web performance.</p><br>
@@ -17,6 +17,7 @@
   <p><strong>⚡ Fun fact</strong><br>
   I love jamming on my electric guitar in my downtime!</p>
 </div>
+
 
 
 💻 Tech Stack:
