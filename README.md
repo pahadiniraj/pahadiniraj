@@ -1,5 +1,5 @@
 <div>
-  <p><strong>💫 About Me</strong><br>
+  
   I’m currently developing a sophisticated SaaS platform using React.js, Next.js, and TypeScript. This project involves integrating AI-driven features for personalized user experiences and implementing advanced state management with Redux Toolkit and RTK Query to ensure seamless performance across complex microservices.</p><br>
 
   <p><strong>👯 I’m looking to collaborate on</strong><br>
