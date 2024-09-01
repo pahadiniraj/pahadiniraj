@@ -1,6 +1,3 @@
-<div>
-  <p><strong>🎯 Currently Building:</strong> A cutting-edge SaaS platform with React.js, Next.js, and TypeScript, integrating AI-driven features for a next-level user experience. With advanced state management using Redux Toolkit and RTK Query, this project is all about seamless performance and tackling complex microservices like a pro.</p><br>
-
   <p><strong>🤝 Looking to Collaborate:</strong> On fullstack projects that push the boundaries! Whether it’s MERN or PERN, I’m all in for creating dynamic, high-performance solutions that blend the best of both frontend and backend worlds.</p><br>
 
   <p><strong>🧠 Learning:</strong> Diving deep into advanced React concepts, AI integration, and sharpening my skills in data structures and algorithms. Basically, I’m all about leveling up my coding game!</p><br>
